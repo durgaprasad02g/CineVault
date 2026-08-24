@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CineVault.Application/CineVault.Application.csproj" />
+  <Project Path="CineVault.Domain/CineVault.Domain.csproj" />
+  <Project Path="CineVault.Infrastructure/CineVault.Infrastructure.csproj" />
+  <Project Path="CineVault.Web/CineVault.Web.csproj" />
+</Solution>
